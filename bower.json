@@ -1,0 +1,22 @@
+{
+  "name": "firepad-example",
+  "version": "0.0.1",
+  "homepage": "https://github.com/awesomebox/firepad-example",
+  "authors": [
+    "Brendan Irvine-Broque <brendanib@gmail.com>"
+  ],
+  "description": "Start using firepad in less than 30 seconds",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firepad": "~0.1.2",
+    "codemirror": "~3.20.0"
+  }
+}
